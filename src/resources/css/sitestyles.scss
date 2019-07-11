@@ -1,0 +1,15 @@
+@import "./variables";
+
+html {
+  position: relative;
+  min-height: 100%;
+
+  body {
+    font-family: $font-app;
+    background-color: $color-app-background;
+
+    h1 {
+      margin-bottom: 1em;
+    }
+  }
+}
