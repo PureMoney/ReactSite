@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "whats_rocks": "ROKS là gì?",
+    "white_paper": "Giấy trắng",
+    "team": "Đội ngũ của chúng tôi",
+    "map": "Bản đồ",
+    "about": "Trong khoảng",
+    "contact_us": "Liên hệ chúng tôi",
+    "use_cases": "Trường hợp sử dụng",
+    "login": "Đăng nhập",
+    "register": "Ghi danh",
+    "logout": "Đăng xuất",
+    "language": "Ngôn ngữ"
+  },
+  "heading": {
+    "title": "ROCK ỔN ĐỊNH ỔN ĐỊNH. SỰ TIN TƯỞNG. KHÔNG CÓ GIÁ TRỊ INSTRINIC.",
+    "subtitle": "Chúng tôi phục vụ không giới hạn bằng cách giới thiệu ROKS và truyền bá việc sử dụng nó như là phương tiện trao đổi. Giá trị tin cậy là một hiệu ứng mạng. Chúng tôi thiết lập giá trị niềm tin trong ROKS bằng cách xây dựng cơ sở hạ tầng ở bên chấp nhận, một hệ thống thanh toán. Chúng tôi tin rằng lý thuyết số lượng không hoạt động mà không có giá trị tin cậy."
+  },
+  "what": {
+    "title": "Mã thông báo ổn định (ROKS) là gì?",
+    "subtitle": "ROKS nói về việc tận dụng cơ hội thiên nga đen tiền điện tử tích cực này để thực hiện một số ý tưởng của von Mise mà ông đã trình bày trong kiệt tác của mình \"Lý thuyết về tiền và tín dụng \" (khoảng năm 1912). ROKS là về sức mạnh của ý tưởng, sức mạnh vượt qua cả sức mạnh chính trị và sức mạnh kinh tế. ROKS là về lý tưởng phổ quát của tự do kinh tế.",
+    "accept_side": "Hoạt động đầu tiên ở phía chấp nhận, chúng tôi hướng đến các hiệu ứng mạng chính cho ROKS.",
+    "linchpin": "Ứng dụng POS <b> MainSale </ b> của chúng tôi là dòng sản phẩm của chiến lược bên chấp nhận của chúng tôi.y.",
+    "medium_exchange": "Hệ thống thanh toán của chúng tôi sẽ thiết lập ROKS làm phương tiện trao đổi để sử dụng hàng ngày.",
+    "download_whitepaper": "TẢI VỀWHITEPAPER"
+  },
+  "our_team_subtitle": "Chúng tôi có hơn 40 năm kinh nghiệm về tiền điện tử trong số chúng tôi. Kỹ năng của chúng tôi được rèn giũa chủ yếu trong lò luyện kim của Microsoft.",
+  "contact": {
+    "any_question": "Acâu hỏi ny? Chỉ hỏi thôi.",
+    "join": "Tham gia với chúng tôi trên Telegram"
+  },
+  "footer": {
+    "terms": "Điều khoản sử dụng",
+    "privacy": "Chính sách bảo mật"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "whats_rocks": "什么是韩国?",
+    "white_paper": "白皮书",
+    "team": "我们的队伍",
+    "map": "地图",
+    "about": "关于",
+    "contact_us": "联系我们",
+    "use_cases": "用例",
+    "login": "登录",
+    "register": "寄存器",
+    "logout": "登出",
+    "language": "语言"
+  },
+  "heading": {
+    "title": "摇滚稳定的令牌。不可信。<br /> 没有本质价值.",
+    "subtitle": "我们通过引入ROKS并将其用途作为交换媒介来为无银行账户服务。信任价值是一种网络效应。我们通过在接受方（支付系统）上构建基础设施，在ROKS建立信任价值。我们相信数量理论在没有信任价值的情况下是行不通的."
+  },
+  "what": {
+    "title": "什么是Rockstable Token（ROKS）?",
+    "subtitle": "韩国正在利用这种积极的加密货币黑天鹅机会来实施他在他的巨着“货币和信贷理论”（大约1912年）中提出的许多冯米塞斯的想法。韩国是关于思想的力量，超越政治权力和经济权力的权力。韩国是关于经济自由的普遍理想.",
+    "accept_side": "首先在接受方面工作，我们的目标是为ROKS提供网络效应.",
+    "linchpin": "我们的<b> MainSale </ b> POS应用程序是我们接受方战略的关键。",
+    "medium_exchange": "我们的支付系统将建立ROKS作为日常使用的交换媒介.",
+    "download_whitepaper": "下载 WHITEPAPER"
+  },
+  "our_team_subtitle": "我们拥有超过40年的加密货币经验。我们的技能主要是在微软的熔炉中形成的.",
+  "contact": {
+    "any_question": "任何问题？请问.",
+    "join": "加入我们的电报"
+  },
+  "footer": {
+    "terms": "使用条款",
+    "privacy": "隐私政策"
+  }
+}
