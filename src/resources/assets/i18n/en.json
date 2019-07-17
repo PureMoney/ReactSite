@@ -1,0 +1,36 @@
+{
+  "menu": {
+    "whats_rocks": "What is ROKS?",
+    "white_paper": "White Paper",
+    "team": "Our Team",
+    "map": "Map",
+    "about": "About",
+    "contact_us": "Contact Us",
+    "use_cases": "Use Cases",
+    "login": "Log In",
+    "register": "Register",
+    "logout": "Log Out",
+    "language": "Language"
+  },
+  "heading": {
+    "title": "ROCK STABLE TOKEN. TRUSTLESS. <br /> NO INSTRINSIC VALUE.",
+    "subtitle": "We serve the unbanked by introducing ROKS and spreading its usage as medium of exchange. Trust value is a network effect. We establish trust value in ROKS by building an infrastructure on the accept-side, a payment system. We believe that the quantity theory does not work without trust value."
+  },
+  "what": {
+    "title": "What is Rockstable Token (ROKS)?",
+    "subtitle": "ROKS is about taking advantage of this positive cryptocurrency black swan opportunity to implement a number of von Mises' ideas he presented in his magnum opus \"The Theory of Money and Credit\" (circa 1912). ROKS is about the power of ideas, power that transcends both political power and economic power. ROKS is about the universal ideal of economic freedom.",
+    "accept_side": "Working first on the accept-side, we aim to prime network effects for ROKS.",
+    "linchpin": "Our <b>MainSale</b> POS App is the linchpin of our accept-side strategy.",
+    "medium_exchange": "Our Payment System will establish ROKS as the medium of exchange for daily use.",
+    "download_whitepaper": "DOWNLOAD WHITEPAPER"
+  },
+  "our_team_subtitle": "We have more than 40 years of cryptocurrency experience among us. Our skills are forged mostly in the Microsoft crucible.",
+  "contact": {
+    "any_question": "Any questions? Just ask.",
+    "join": "Join us on Telegram"
+  },
+  "footer": {
+    "terms": "Terms of use",
+    "privacy": "Privacy Policy"
+  }
+}

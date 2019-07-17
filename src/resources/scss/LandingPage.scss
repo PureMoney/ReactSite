@@ -1,0 +1,155 @@
+// use this to override the navbar
+
+// it overrides it, use !important to force the override
+// follow bootstrap in adding navbar logo
+
+// the app will have a side menu
+// use this tutorial
+:host {
+  font-family: "Lato", sans-serif;
+  background: linear-gradient( rgba(26, 35, 126, 0.7)10%, rgba(0, 2, 40, 1)100%), url("/assets/img/pos.jpeg") no-repeat 50% 50%;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+}
+
+.navbar-collapse {
+  &.show {
+    // transition: .45s;
+    background:linear-gradient( rgba(26, 35, 126, 0.7)10%, rgba(0, 2, 40, 1)100%);
+    padding: 30px 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+  }
+}
+
+.navbar-collapse.scrolled {
+  &.show {
+    background: #fff;
+    // padding: 30px 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+  }
+}
+
+button.navbar-toggler {
+  // background: #fff;
+  border-radius: 30px;
+  .navbar-toggler-icon {
+    padding: 18px 0;
+    font-size: 14px;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  }
+}
+
+.overlay-background {
+  position: absolute;
+  width: 100%;
+  height: 480px;
+  top: -200px;
+  transform: skewY(-8deg);
+  background: linear-gradient(to bottom right, #1A237E, #020433);
+}
+
+.wrapper {
+  background: linear-gradient( rgba(26, 35, 126, 0.7)10%, rgba(0, 2, 40, 1)100%), url("/assets/img/pos.jpeg") no-repeat 50% 50%;
+  background-size: cover;
+  height: 100vh;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar-toggler-icon {
+  color: #fff
+}
+
+/* Navbar Effect */
+nav {
+  transition: 1s;
+  background: transparent !important;
+}
+
+nav.scrolled {
+  background: #fff !important;
+  box-shadow: 0px 0px 5px 0px gray;
+}
+
+button.navbar-toggler {
+  color: white;
+}
+
+a.nav-link {
+  color: #fff !important;
+  font-weight: bold;
+}
+
+li a:hover {
+  color: #1E90FF !important;
+  transition: .30s;
+}
+
+li a.scrolled:hover {
+  color: #1E90FF !important;
+  transition: .30s;
+}
+
+a.nav-link.scrolled {
+  color: #1A237E !important;
+}
+
+a:link {
+  text-decoration: none;
+  color: #000;
+}
+
+.btn-light.scrolled {
+  border: 1px solid #1A237E;
+  background: #fff;
+}
+
+/* Inner Container */
+.inner {
+  padding-top: 250px;
+  color: #fff;
+  text-align: center;
+}
+
+footer {
+  padding-bottom: 50px;
+
+  .footer-link {
+    color: #1A237E;
+  }
+}
+
+.nav-link-inline {
+  display: inline-block;
+}
+
+.language {
+  margin-left: 20px;
+}
+
+.login {
+  margin-left: 20px;
+}
+
+@media only screen and (max-width: 1200px) {
+  .language {
+    margin-left: 0;
+  }
+
+  .login {
+    margin-left: 0;
+  }
+
+  .nav-item {
+    margin-bottom: 10px;
+  }
+
+  button.navbar-toggler {
+    border: none;
+  }
+}
